@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Sql, Excel and Python practice projects
 - 🌱 I’m currently learning Pandas and Beautiful Soup
 - 👯 I’m looking to collaborate on data analysis projects
-- 🚲 My days consist of cycling, teaching and programming
+- 🚲 My days consist of cycling, teaching math and programming
 ##
 <div>
   <h2>You can find me through:</h2>
